@@ -1,0 +1,19 @@
+.itemWrapper {
+  border: 2px solid black;
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  margin: 20px;
+  text-align: left;
+  background-color: rgb(255, 233, 233);
+}
+.innerWrapper {
+  width: 80%;
+}
+.itemWrapper img {
+  width: 100%;
+}
+figcaption {
+  width: 90%;
+}
